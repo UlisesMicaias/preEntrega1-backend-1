@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1734629992068",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734629992226",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734630011205",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734630014765",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734630016550",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734630018182",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734630876643",
+    "title": "Nuevo Producto",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  },
+  {
+    "id": "1734631855583",
+    "title": "fui modificado por id",
+    "description": "Este es un producto de prueba",
+    "code": "PROD123",
+    "price": 100,
+    "stock": 20,
+    "category": "Electrónica",
+    "thumbnails": [
+      "image1.jpg",
+      "image2.jpg"
+    ],
+    "status": true
+  }
+]
